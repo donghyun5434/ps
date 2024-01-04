@@ -58,4 +58,3 @@ for i in range(n):
             jrsy_count += 1
 
 print(jrsy_count)
-
